@@ -1,0 +1,9 @@
+Gym	at benliegh	23-05 -2020
+Birthday	Bajinder's birthday today	19-03 -2020
+Bills	Rent Transfer and Electricity	03-01 -2020
+Meeting	in Brisbane Get some notes first for improvements of the project	17-08 -2020
+new	gag nan ki sgd	25-06 -2020
+today	Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.	19-06 -2020
+Dentist	Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.	20-06 -2020
+Bajinder's Note	I deleted jdk and jfx files from download folder. But tried to fix it again. I may not have. 
+If there are still problems with this project. It's probably I caused it.	21-06 -2020
